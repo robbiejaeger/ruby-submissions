@@ -6,7 +6,7 @@
 
 ### Christopher Soden
 
-### Colin Osborn  - https://github.com/colinosborn/module_3_assessment
+### Colin Osborn
 
 ### Deborah Hamel
 
@@ -20,7 +20,7 @@
 
 ### Kerry Sheldon
 
-### Lucy Fox
+### Lucy Fox https://github.com/lucyfox4131/module_3_assessment
 
 ### Marcella Wigg
 
@@ -28,6 +28,6 @@
 
 ### Parker Phillips
 
-### Robert Jaeger
+### Robert Jaeger https://github.com/robbiejaeger/module_3_assessment
 
 ### Ryan Batty
